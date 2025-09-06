@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\backup-latest\\CS\\elytra\\practice\\codeforces\\800\\a-next-round\\src\\main.rs","tests":[{"id":1746504481885,"input":"8 5\n10 9 8 7 7 7 5 5\n","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\backup-latest\\CS\\elytra\\practice\\codeforces\\800\\a-next-round\\src\\main.rs","group":"local","local":true}

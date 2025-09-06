@@ -1,0 +1,8 @@
+[package]
+name = "a-bit-pp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+[package.metadata.scripts]
+run = "cargo run"
