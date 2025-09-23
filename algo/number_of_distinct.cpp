@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
-#include <iostream>
-#include <vector>
+#include <unordered_set>
 #define FAST_IO                                                                \
   ios::sync_with_stdio(0);                                                     \
   cin.tie(0);                                                                  \
@@ -14,16 +13,13 @@
 using ll = long long;
 using vi = std::vector<int>;
 using pi = std::pair<int, int>;
+using usi = std::unordered_set<int>;
 using namespace std;
 
 int main() {
   FAST_IO;
-  int t;
-  cin >> t;
-
-  while (t--) {
-    ll x;
-    cin >> x;
-    cout << 2 * x << '\n';
-  }
+  vi v = {1, 2, 3, 2, 1, 4, 5};
+  usi distinct_elements(v.begin(), v.end());
+  cout << "Number of distinct elements: " << distinct_elements.size() << endl;
+  return 0;
 }
