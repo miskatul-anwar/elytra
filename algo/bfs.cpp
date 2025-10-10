@@ -1,9 +1,11 @@
 #include <iostream>
+#include <ostream>
 #include <queue>
 #include <vector>
 using namespace std;
 
 // BFS traversal function for 1-based indexing
+
 vector<int> bfs_of_graph(int V, vector<int> adj[], int start_node) {
   vector<int> vis(V + 1, 0); // +1 to handle 1-based indexing
   vector<int> bfs;
@@ -50,7 +52,7 @@ int main() {
   for (auto it : ans) {
     cout << it << ' ';
   }
-  cout << endl;
 
+  cout << '\n';
   return 0;
 }
