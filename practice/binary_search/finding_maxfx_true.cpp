@@ -32,7 +32,14 @@ int last_true(int lo, int hi, function<bool(int)> f) {
 }
 
 int main() {
-
+  /*
+   n = 3
+   m = 2
+   ...
+   ###
+   #.#
+  ans = 3
+  */
   // all numbers satisfy the condition (outputs 10)
 
   cout << last_true(2, 10, [](int x) { return true; }) << endl;

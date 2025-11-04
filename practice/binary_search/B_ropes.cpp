@@ -13,8 +13,9 @@ int main() {
   double left = 0, right = 1e7;
 
   for (int iter = 0; iter < 100; ++iter) {
-    double mid = (left + right) / 2;
+    double mid = left + (right - left) / 2;
     int pieces = 0;
+    // 2 3 4 10 4
     for (int i = 0; i < n; ++i) {
       pieces += int(a[i] / mid);
     }
