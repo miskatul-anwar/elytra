@@ -1,0 +1,1 @@
+{"name":"Local: Safe_Robots","url":"/home/miskat/Clone/elytra/practice/ICPC/Safe_Robots.cpp","tests":[{"id":1763108752481,"input":"1\nA...B\n1 1","output":"unsafe"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miskat/Clone/elytra/practice/ICPC/Safe_Robots.cpp","group":"local","local":true}
