@@ -2,8 +2,6 @@
 #include <vector>
 using namespace std;
 
-void dfs(int start, int n, vector<int> adj[]) {}
-
 int main(void) {
   int n, m;
   cin >> n >> m;
