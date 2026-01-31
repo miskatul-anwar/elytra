@@ -1,3 +1,4 @@
+# NixOS shell setup
 { pkgs ? import <nixpkgs> {} }:
 
 pkgs.mkShell {
