@@ -1,0 +1,6 @@
+[package]
+name = "cses116_building_roads"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
