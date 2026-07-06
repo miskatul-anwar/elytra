@@ -1,0 +1,1 @@
+/home/miskat/elytra/file_reading_technique/read_file/target/debug/read_file: /home/miskat/elytra/file_reading_technique/read_file/src/file_read.rs /home/miskat/elytra/file_reading_technique/read_file/src/main.rs

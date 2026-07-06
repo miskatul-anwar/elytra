@@ -1,0 +1,1 @@
+{"name":"Local: 1352A","url":"/home/miskat/elytra/practice/codeforces/800/1352A.c","tests":[{"id":1782735180962,"input":"5\n5009\n7\n9876\n10000\n10\n","output":"2\n5000 9\n1\n7 \n4\n800 70 6 9000 \n1\n10000 \n1\n10 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miskat/elytra/practice/codeforces/800/1352A.c","group":"local","local":true}
